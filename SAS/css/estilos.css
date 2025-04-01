@@ -1,0 +1,45 @@
+.title-top{
+    margin-top: 20px
+}
+
+#tabla thead{
+    background: #8CAAD4;
+    border-bottom: 1px solid #8CAAD4 !important;
+    color:white;
+}
+
+#tabla tbody tr{
+    background: #FCFCFC;
+    border: 3px solid white;
+    border-bottom: 3px solid white !important;
+}
+
+table.dataTable.no-footer {
+    border-bottom: 0px solid rgb(255, 255, 255) !important; 
+}
+
+table.dataTable{
+    border-collapse: collapse !important;
+}
+
+.dropdown-toggle::after {
+    color: transparent;
+}
+
+.puntos-verticales{
+    background-color: transparent;
+    margin-left: 15px;
+    color: #7A746E;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.puntos-tamanio{
+    font-size: 20px !important;
+}
+
+.pdf{
+    font-size: 30px ;
+    border-top-right-radius: 14px;
+}
+
